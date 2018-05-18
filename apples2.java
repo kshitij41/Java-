@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 import javafx.collections.transformation.SortedList;
 public class apples2 {
 	public static void main(String[] args){
-		/*
+		
 		int[] ar1 = {2,18,1,42,5,23,5,31,6};
 		projects x = new projects();
 		x.EvenBeforeOdd(ar1);
@@ -64,7 +64,7 @@ public class apples2 {
 	    PriorityQueue<Integer> prique = new PriorityQueue<Integer>();
 	    prique.add(5);prique.add(7);prique.add(2);prique.add(11);
 	    System.out.print(prique.remove());
-	    */
+	    
 	    
 		}
 
